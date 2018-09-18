@@ -1,2 +1,4 @@
 # hello-world
-Just a heelo world in my github
+Hi People,
+
+My name is Luiz, I'm a Brazilian living in Canada. 
